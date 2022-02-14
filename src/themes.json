@@ -1,0 +1,11 @@
+{
+    "ubuntu": {
+        "name": "ubuntu",
+        "back": "#3b1a2a",
+        "fore": "#ffffff",
+        "purplish": "#ffffff",
+        "purple": "#ffffff",
+        "palepink": "#ffffff",
+        "username": "#f7c4f7"
+    }
+}

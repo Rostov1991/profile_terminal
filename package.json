@@ -1,0 +1,12 @@
+{
+  "name": "profile-terminal",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varulv1997/profile_terminal.git"
+  },
+  "dependencies": {
+    "@octokit/rest": "^18.10.0",
+    "nunjucks": "^3.2.3"
+  }
+}
