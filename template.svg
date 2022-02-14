@@ -109,49 +109,49 @@
                 <text x="0" textLength="128" font-weight="bold" class="color10">{{ data.username }}</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="24" class="foreground">$ re</text>
+                <text x="144" textLength="24" class="foreground">$ s</text>
                 <text x="168" textLength="8" class="background"></text>
             </g>
             <g id="g3">
                 <text x="0" textLength="128" font-weight="bold" class="color10">{{ data.username }}</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="32" class="foreground">$ requ</text>
+                <text x="144" textLength="32" class="foreground">$ set</text>
                 <text x="176" textLength="8" class="background"></text>
             </g>
             <g id="g4">
                 <text x="0" textLength="128" font-weight="bold" class="color10">{{ data.username }}</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="40" class="foreground">$ reques</text>
+                <text x="144" textLength="40" class="foreground">$ setti</text>
                 <text x="184" textLength="8" class="background"></text>
             </g>
             <g id="g5">
                 <text x="0" textLength="128" font-weight="bold" class="color10">{{ data.username }}</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="48" class="foreground">$ requesting</text>
+                <text x="144" textLength="48" class="foreground">$ settin</text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
             <g id="g6">
                 <text x="0" textLength="128" font-weight="bold" class="color10">{{ data.username }}</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="56" class="foreground">$ requesting pro</text>
+                <text x="144" textLength="56" class="foreground">$ settingpr</text>
                 <text x="200" textLength="8" class="background"></text>
             </g>
             <g id="g7">
                 <text x="0" textLength="128" font-weight="bold" class="color10">{{ data.username }}</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="64" class="foreground">$ requesting profi</text>
+                <text x="144" textLength="64" class="foreground">$ settingprofi</text>
                 <text x="208" textLength="8" class="background"></text>
             </g>
             <g id="g8">
                 <text x="0" textLength="128" font-weight="bold" class="color10">{{ data.username }}</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="64" class="foreground">$ requesting profile</text>
+                <text x="144" textLength="64" class="foreground">$ settingprofile</text>
             </g>
             <g id="g9">
                 <text x="0" textLength="8" class="background"></text>
