@@ -73,18 +73,18 @@
         </style>
         <style type="text/css" id="user-style">
             .foreground {fill: #ffffff}
-            .background {fill: #3b1a2a}
-            .color0 {fill: #4b2b40}
+            .background {fill: #4a262e}
+            .color0 {fill: #4a262e}
             .color1 {fill: #f92672}
             .color3 {fill: #ffcce1}
             .color4 {fill: #ea79ff}
             .purple {fill: #ffffff}
             .color6 {fill: #ffffff}
             .color7 {fill: #f8f8f2}
-            .color8 {fill: #4b2b40}
+            .color8 {fill: #4a262e}
             .color9 {fill: #f7c4f7}
             .color10 {fill: #f7c4f7}
-            .color11 {fill: #4b2b40}
+            .color11 {fill: #4a262e}
             .color12 {fill: #ffffff}
             .color13 {fill: #f5f4f1}
             .palepink {fill: #ffffff}
