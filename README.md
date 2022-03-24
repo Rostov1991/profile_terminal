@@ -12,7 +12,7 @@ Voit tavoittaa meidät kautta [Slack Workspace](https://join.slack.com/t/svartma
 
 > 🐞 devbranch kanava
 
-![GitHub User's stars](https://img.shields.io/github/stars/Varulv1997?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Varulv1997?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Rostov1991?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Rostov1991?style=social)
 
-![Stats](https://anasgamrani.vercel.app/api/top-langs/?username=Varulv1997&hide=php&layout=compact&theme=buefy&bg_color=FDE0FF&count_private=true&title_color=9038C9&include_all_commits&show_icons=true)
+![Stats](https://anasgamrani.vercel.app/api/top-langs/?username=Rostov1991&hide=php&layout=compact&theme=buefy&bg_color=FDE0FF&count_private=true&title_color=9038C9&include_all_commits&show_icons=true)

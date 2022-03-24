@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Varulv1997/profile_terminal.git"
+    "url": "git+https://github.com/Rostov1991/profile_terminal.git"
   },
   "dependencies": {
     "@octokit/rest": "^18.10.0",
