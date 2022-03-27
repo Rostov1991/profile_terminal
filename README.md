@@ -1,18 +1,18 @@
-## ᚨᚾ ᚨᚾᚨᛊ ᚷᚨᛗᚱᚨᚾᛁ ᛈᚱᛟᛃᛖᚲᛏ__
+## 🐗 Description____(Auto generated)
+ <img src="/.info/img/art.jpg" alt="Art" width="69%"/>
 
- <img src="/.info/art.jpg" alt="Art" width="69%"/>
+Projects might be in an archived state after certain periods.
 
-Voit osallistua projekteihimme yksinkertaisesti tekemällä vetopyynnön : )
+## 🍁 We are in Slack____
 
+Voit tavoittaa meidät kautta <a href="https://join.slack.com/t/svartmaneasyl/shared_invite/zt-g2qhdqkg-wjrpG5KTQbEChPtSMdMu6A"><img width="200" src="/.info/img/slack.svg"/></a>
 
-## ⌘ Keskustele projektista?__
+[![Rostov1991](https://profilechart.herokuapp.com/graph?username=Rostov1991)](https://github.com/Rostov1991)
 
-Voit tavoittaa meidät kautta [Slack Workspace](https://join.slack.com/t/svartmaneasyl/shared_invite/zt-g2qhdqkg-wjrpG5KTQbEChPtSMdMu6A )
+> 🍄 Devbranch channel
 
+ <img src="https://raw.githubusercontent.com/Rostov1991/profile_terminal/master/github_stats.svg"/>
 
-> 🐞 devbranch kanava
-
-![GitHub User's stars](https://img.shields.io/github/stars/Rostov1991?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Rostov1991?style=social)
-
-![Stats](https://anasgamrani.vercel.app/api/top-langs/?username=Rostov1991&hide=php&layout=compact&theme=buefy&bg_color=FDE0FF&count_private=true&title_color=9038C9&include_all_commits&show_icons=true)
+![GitHub User's stars](https://img.shields.io/github/stars/Rostov1991?style=social&logoColor=3b1a2a)
+![GitHub followers](https://img.shields.io/github/followers/Rostov1991?style=social&logoColor=ffade2)
+![Maintenance](https://img.shields.io/maintenance/yes/2021?color=red&style=social&logo=github&logoColor=e91a47)
